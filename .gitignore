@@ -9,4 +9,5 @@ Cargo.lock
 .stellar
 
 # IDE settings
-.vscode/
+config.bat
+node_modules
